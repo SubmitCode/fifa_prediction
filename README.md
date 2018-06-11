@@ -1,1 +1,3 @@
-# fifa_prediction
+# FIFA Data exploration
+
+Ix und Px haben ja eine Tippgruppe bei SRF. Persönlich bin ich ja nicht der grösste Fussballfan. Dennoch dachte ich mir es wäre eine gute Gelegenheit Data Science bei Inventx zu stärken und Inventx auch dabei zu helfen bei den Firmen dabei zu sein die am besten abschneiden. In den folgenden Posts werde ich immer mal verschiedene Fakten und Statistiken aufzeigen, die uns als Team helfen sollen unsere Vorhersagen zu stärken. Im ersten Teil geht es um Data Exploration.
